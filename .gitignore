@@ -1,0 +1,9 @@
+/.venv
+/.env
+/.idea
+__pycache__
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/PythonUnitTestExercise.iml
+.idea/vcs.xml
